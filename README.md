@@ -7,11 +7,6 @@ a REST API layer and deploying it as a live web application.
 ## Live Demo
 https://library-management-system-d1a7.onrender.com
 
-## My Contributions (Individual Extension)
-- Wrapped the Java backend with Spring Boot REST API
-- Built the frontend (HTML, CSS, JavaScript)
-- Dockerized and deployed on Render
-
 ## Original Group Project
 - Core data structures: Dynamic Array, Linked List, Queue
 - Library logic: book management, member management, borrow/return system
